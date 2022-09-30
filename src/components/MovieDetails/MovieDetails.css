@@ -1,0 +1,13 @@
+.main_card{
+    background-color: aliceblue;
+    text-align: center;
+    margin:20px ;
+    border-radius: 15px;
+    padding: 10px;
+}
+.main_card h1 {
+color: black;
+}
+.main_card p{
+    color: black;
+}
